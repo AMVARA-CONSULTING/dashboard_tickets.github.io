@@ -1,0 +1,52 @@
+{
+    "menu": {
+        "order_intake": "Auftragseingang",
+        "production_program": "Produktionprogramm",
+        "allocation": "Belegung",
+        "plant_stock": "Bestand",
+        "about": "Über",
+        "help": "Hilfe"
+    },
+    "connected": "Verbunden",
+    "not_connected": "Nicht verbunden",
+    "plandate": "Programmstand",
+    "region": "Region",
+    "product": "Produkt",
+    "regions": "Regionen",
+    "products": "Produkte",
+    "production_program": {
+        "customer": "Kunde",
+        "plan": "Plan",
+        "total": "Gesamt",
+        "reserve": "Reserve"
+    },
+    "allocation": {
+        "program": "Plannung",
+        "allocation": "Kunde"
+    },
+    "about": {
+        "betaFeatures": "Aktivieren Sie experimentelle Funktionen",
+        "notBetaFeatures": "Deaktivieren Sie experimentelle Funktionen",
+        "config": "Config",
+        "sponsor": "Sponsor",
+        "credits": "Credits",
+        "thanks": "Danke",
+        "software": "Software",
+        "licenses": "Lizenzhinweise",
+        "technical_information": "Technische Informationen",
+        "changelog": "Changelog"
+    },
+    "by":{
+        "priority":"by Priority",
+        "type":"by Ticket Type",
+        "app_service":"by Application / Service",
+        "ticket_status":"by Ticket Status"
+    },
+    "overall_silt":{
+        "overall_tickets":"Overall Tickets",
+        "average_silt":"Average SILT"
+    },
+    "legend":{
+        "ticket": "Ticket Type:"
+    }
+}
